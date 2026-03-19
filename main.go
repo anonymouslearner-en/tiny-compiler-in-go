@@ -1,4 +1,4 @@
-package tinycompileringo
+package main
 
 import "fmt"
 
